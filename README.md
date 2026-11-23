@@ -21,9 +21,12 @@ Rising meat and milk prices make every lost cow costly. Farmers often notice dis
 4. Block milk sales during antibiotic withdrawal periods.
 
 ## Data source
-Liu, Y. (2025). Machine-learning-for-lactating-performance [Data set]. Mendeley Data, V1. https://doi.org/10.17632/6dfz46vh7w.1.
+Liu, Y. (2025). Machine-learning-for-lactating-performance (data set).
+
+Mendeley Data, V1. https://doi.org/10.17632/6dfz46vh7w.1.
 
 Licence: CC BY 4.0. 
+
 Files used: Lactation_period.csv, Temperature humidity index (THI).csv, Disease.xlsx.
 
 ## Innovation
