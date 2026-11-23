@@ -1,8 +1,11 @@
 # INKA SENSE: Cattle Health Monitoring and Early Disease Alert System
 
-**Name:** Oganze Venusse
+**Name:** Oganze Venusse 
+
 **Student ID:** 28518
+
 **Course:** INSY 8311, Database Development with PL/SQL
+
 **Instructor:** Eric Maniraguha
 
 ## Problem statement
@@ -18,7 +21,7 @@ Rising meat and milk prices make every lost cow costly. Farmers often notice dis
 4. Block milk sales during antibiotic withdrawal periods.
 
 ## Data source
-<dataset name, link, licence, size>
+MmCows: A Multimodal Dataset for Dairy Cattle Monitoring (Vu et al., NeurIPS 2024). https://github.com/neis-lab/mmcows. Licence: CC BY-NC-SA 4.0 (non-commercial, educational use allowed).
 
 ## Innovation
 Advanced analytics: a risk score from sensor data, shown on <tool, e.g. Python/Streamlit or Power BI>.
