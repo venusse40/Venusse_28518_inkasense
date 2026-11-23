@@ -21,7 +21,7 @@ Rising meat and milk prices make every lost cow costly. Farmers often notice dis
 4. Block milk sales during antibiotic withdrawal periods.
 
 ## Data source
-MmCows: A Multimodal Dataset for Dairy Cattle Monitoring (Vu et al., NeurIPS 2024). https://github.com/neis-lab/mmcows. Licence: CC BY-NC-SA 4.0 (non-commercial, educational use allowed).
+Liu, Y. (2025). Machine-learning-for-lactating-performance [Data set]. Mendeley Data, V1. https://doi.org/10.17632/6dfz46vh7w.1. Licence: CC BY 4.0. Files used: Lactation_period.csv, Temperature humidity index (THI).csv, Disease.xlsx.
 
 ## Innovation
 Advanced analytics: a risk score from sensor data, shown on <tool, e.g. Python/Streamlit or Power BI>.
