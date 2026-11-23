@@ -30,10 +30,10 @@ Licence: CC BY 4.0.
 Files used: Lactation_period.csv, Temperature humidity index (THI).csv, Disease.xlsx.
 
 ## Innovation
-Advanced analytics: a risk score from sensor data, shown on <tool, e.g. Python/Streamlit or Power BI>.
+Advanced analytics: a PL/SQL risk-score function that flags cows at risk of illness from milk-yield drops and heat stress, shown on a simple dashboard (tool to be confirmed).
 
 ## Planned tables
-farm, cow, sensor_device, reading, disease, diagnosis, treatment, medication, vet, milk_collection, alert
+cow, lactation_period, milk_record, illness_event, thi_reading, heat_stress_level, alert, disease_type, medication, treatment
 
 ## Planned PL/SQL features
 - Trigger: blocks milk collection from a cow in antibiotic withdrawal.
@@ -45,4 +45,5 @@ farm, cow, sensor_device, reading, disease, diagnosis, treatment, medication, ve
 - Scheduled job: flags at-risk cows each night.
 
 ## References
-<APA references, only sources you have actually read>
+
+https://data.mendeley.com/datasets/6dfz46vh7w/1
